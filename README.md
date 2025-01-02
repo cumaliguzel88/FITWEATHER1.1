@@ -5,7 +5,7 @@ Explore Weather Updates 🌦️ See the current weather for your location or any
 Get Outfit Recommendations 👗 Perfect outfit suggestions tailored to the weather!
 
 Shop the Looks 🛒 Use TopLink and BottomLink to shop the styles you love.
-
+ 
 Add Comments 💬 Share your feedback and thoughts with others!
 
 Save Favorites ❤️ Keep your top picks handy by saving them in your favorites.
